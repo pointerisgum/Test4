@@ -5,6 +5,8 @@
 //  Created by 김영민 on 2021/09/07.
 //
 
+//브런치에서 커밋 함
+
 import UIKit
 
 @main

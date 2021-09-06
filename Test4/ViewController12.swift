@@ -1,5 +1,5 @@
 //
-//  ViewController3.swift
+//  ViewController12.swift
 //  Test4
 //
 //  Created by 김영민 on 2021/09/07.
@@ -7,9 +7,7 @@
 
 import UIKit
 
-//브런치 2에서 수정함 메인에 머지할거임
-
-class ViewController3: UIViewController {
+class ViewController12: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

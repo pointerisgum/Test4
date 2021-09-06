@@ -16,6 +16,7 @@
 		18A00F0C26E68E1F00D80019 /* Test4Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A00F0B26E68E1F00D80019 /* Test4Tests.swift */; };
 		18A00F1726E68E1F00D80019 /* Test4UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A00F1626E68E1F00D80019 /* Test4UITests.swift */; };
 		18A00F2526E691C300D80019 /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A00F2426E691C300D80019 /* ViewController1.swift */; };
+		18A00F2726E6922C00D80019 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A00F2626E6922C00D80019 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		18A00F1626E68E1F00D80019 /* Test4UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test4UITests.swift; sourceTree = "<group>"; };
 		18A00F1826E68E1F00D80019 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18A00F2426E691C300D80019 /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
+		18A00F2626E6922C00D80019 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				18A00EFF26E68E1F00D80019 /* LaunchScreen.storyboard */,
 				18A00F0226E68E1F00D80019 /* Info.plist */,
 				18A00F2426E691C300D80019 /* ViewController1.swift */,
+				18A00F2626E6922C00D80019 /* ViewController2.swift */,
 			);
 			path = Test4;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18A00F2726E6922C00D80019 /* ViewController2.swift in Sources */,
 				18A00F2526E691C300D80019 /* ViewController1.swift in Sources */,
 				18A00EF926E68E1E00D80019 /* ViewController.swift in Sources */,
 				18A00EF526E68E1E00D80019 /* AppDelegate.swift in Sources */,

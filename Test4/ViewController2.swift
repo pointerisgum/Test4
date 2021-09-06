@@ -1,16 +1,13 @@
 //
-//  ViewController1.swift
+//  ViewController2.swift
 //  Test4
 //
 //  Created by 김영민 on 2021/09/07.
 //
 
-
-//vc1
-
 import UIKit
 
-class ViewController1: UIViewController {
+class ViewController2: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

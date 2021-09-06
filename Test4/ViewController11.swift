@@ -1,17 +1,13 @@
 //
-//  ViewController1.swift
+//  ViewController11.swift
 //  Test4
 //
 //  Created by 김영민 on 2021/09/07.
 //
 
-
-//이건 브런치 1에서 수정한 내용임 메인 브런치에 머지 할거임
-//vc111111
-
 import UIKit
 
-class ViewController1: UIViewController {
+class ViewController11: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

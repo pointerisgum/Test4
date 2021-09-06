@@ -19,6 +19,7 @@
 		18A00F2726E6922C00D80019 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A00F2626E6922C00D80019 /* ViewController2.swift */; };
 		18A00F2B26E6936000D80019 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A00F2A26E6936000D80019 /* ViewController3.swift */; };
 		18A00F3126E6953900D80019 /* ViewController12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A00F3026E6953900D80019 /* ViewController12.swift */; };
+		18A00F3526E6960900D80019 /* ViewController11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A00F3426E6960900D80019 /* ViewController11.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		18A00F2626E6922C00D80019 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		18A00F2A26E6936000D80019 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 		18A00F3026E6953900D80019 /* ViewController12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController12.swift; sourceTree = "<group>"; };
+		18A00F3426E6960900D80019 /* ViewController11.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController11.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				18A00F2426E691C300D80019 /* ViewController1.swift */,
 				18A00F2626E6922C00D80019 /* ViewController2.swift */,
 				18A00F2A26E6936000D80019 /* ViewController3.swift */,
+				18A00F3426E6960900D80019 /* ViewController11.swift */,
 				18A00F3026E6953900D80019 /* ViewController12.swift */,
 			);
 			path = Test4;
@@ -272,6 +275,7 @@
 			files = (
 				18A00F2726E6922C00D80019 /* ViewController2.swift in Sources */,
 				18A00F2526E691C300D80019 /* ViewController1.swift in Sources */,
+				18A00F3526E6960900D80019 /* ViewController11.swift in Sources */,
 				18A00F2B26E6936000D80019 /* ViewController3.swift in Sources */,
 				18A00EF926E68E1E00D80019 /* ViewController.swift in Sources */,
 				18A00EF526E68E1E00D80019 /* AppDelegate.swift in Sources */,
